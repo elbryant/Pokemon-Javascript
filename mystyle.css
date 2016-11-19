@@ -1,0 +1,49 @@
+h1 {
+    font-family: sans-serif;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 50px;
+    color: #62098c;
+    
+}
+
+h2 {
+    float:left;
+    position: relative;
+    top: 200px;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+.square {
+    position: relative;
+    height: 250px;
+    width: 250px;
+    float: left;
+    border: 2px solid #000000;
+    margin: 50px 100px 100px 100px;
+}
+
+.type1 {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    display: none;
+}
+
+.type2 {
+    position: absolute;
+    top: 170px;
+    left: 640px;
+    display: none;
+}
+
+#fight {
+    background-color: #8c8f93;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 20px;
+    position: relative;
+    left: 420px;
+    top: -20px;
+}
